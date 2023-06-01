@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página Longa</title>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo à Minha Página Longa!</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#section1">Seção 1</a></li>
+            <li><a href="#section2">Seção 2</a></li>
+            <li><a href="#section3">Seção 3</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="section1">
+            <h2>Seção 1</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum ex vel justo suscipit dignissim. Suspendisse sollicitudin semper est, a hendrerit nisl dignissim at. Aliquam varius eleifend diam, a vestibulum neque ullamcorper non. Donec interdum eros ac purus finibus, sed tempus justo consectetur.</p>
+        </section>
+
+        <section id="section2">
+            <h2>Seção 2</h2>
+            <p>Pellentesque et dapibus massa. Nulla facilisi. Integer dictum feugiat malesuada. Vestibulum tincidunt tortor eu tristique pharetra. Sed facilisis gravida leo, nec hendrerit libero consequat et.
+
